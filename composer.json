@@ -1,0 +1,14 @@
+{
+    "name": "apisnetworks/apiscp-webapp-demo",
+    "description": "A demo web application for ApisCP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matt Saladna",
+            "email": "msaladna@apisnetworks.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
