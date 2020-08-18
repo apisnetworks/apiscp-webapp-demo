@@ -14,7 +14,7 @@
 
 namespace apisnetworks\demo;
 
-use Module\Support\Webapps\App\Type\Unknown;
+use Module\Support\Webapps\App\Type\Unknown\Handler as Unknown;
 
 class Demo extends Unknown {
 
